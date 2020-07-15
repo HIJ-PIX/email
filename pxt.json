@@ -1,9 +1,9 @@
 {
     "name": "Email",
-    "description": "",
+    "description": "non",
     "dependencies": {
         "core": "*",
-        "radio": "*",
+        "radio": "125",
         "radio-broadcast": "*"
     },
     "files": [

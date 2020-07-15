@@ -1,3 +1,35 @@
+/**
+ * radio group 152,put your git-hub name on this comment before editing
+ * 
+ * -------------------------------------------------------------------------------
+ * 
+ * name: HIJ-PIX(master)       Edict
+ * 
+ * name:
+ * 
+ * name:
+ * 
+ * name:
+ * 
+ * name:
+ * 
+ * name:
+ * 
+ * name:
+ * 
+ * -------------------------------------------------------------------------------
+ * 
+ * MAX:7 Edictors
+ * 
+ * if you see that your name is not in the board, leave immediately!
+ * 
+ * do not Edict if i did'nt put the word Edict after your name
+ */
+// group 152,do not add bluetooth,add your Git-Hub name on this comment
+// 
+// ___________________
+// 
+// name:
 input.onButtonPressed(Button.A, function () {
     control.reset()
 })
